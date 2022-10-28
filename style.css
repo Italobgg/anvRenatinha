@@ -187,7 +187,7 @@ body {
 	max-width: 100%;
 }
 .windows-page__image {
-	width:200px;
+	width: 200px;
 	margin: 5px;
 }
 .windows-page__gif {
@@ -236,14 +236,7 @@ audio {
 	left: -300px;
 	display:none;
 }
-.trash {
-	position: absolute;
-	top:50px;
-	left:10px;
-	display:none;
-	text-align:center;
-	cursor:pointer;
-}
+
 .trash-icon {
 	height:40px;
 }
@@ -258,7 +251,7 @@ audio {
 	align-self: flex-end;
 	border-top: solid 1px #dfdfdf;
 	border-bottom: solid 1px #808080;
-	min-height:30px;
+	min-height:10px;
 	align-items: center;
 	justify-content: space-between;
 	padding:0 10px;
